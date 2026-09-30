@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "search-and-sort-algorithms",
+      "title": "Search and Sort Algorithms",
+      "description": "Implement linear search, binary search, and selection sort in Python",
+      "path": "assignments/search-and-sort-algorithms",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
